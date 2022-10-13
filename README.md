@@ -11,11 +11,12 @@ Você deverá desenvolver uma aplicação que consiste em: um banco de dados (My
 
 Na aplicação, o administrador deve fazer o upload de uma planilha seguindo o modelo abaixo.
 
-CPF | Descrição da transação | Data da transação | Valor em pontos | Valor | Status
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-282.279.300-00 | Venda do produto X | 10-10-2022 | 10,000 | 10.000,00 | Aprovado
-282.279.300-00 | Venda do produto Y | 10-10-2022 | 5,000 | 5.000,00 | Reprovado
-282.279.300-00 | Venda do produto Z | 10-10-2022 | 3,000 | 3.000,00 | Em avaliação
+| CPF            | Descrição da transação | Data da transação | Valor em pontos | Valor     | Status       |
+|----------------|------------------------|-------------------|-----------------|-----------|--------------|
+| 282.279.300-00 | Venda do produto X     | 10-10-2022        | 10,000          | 10.000,00 | Aprovado     |
+| 282.279.300-00 | Venda do produto Y     | 10-10-2022        | 10,000          | 10.000,00 | Reprovado    |
+| 282.279.300-00 | Venda do produto Z     | 10-10-2022        | 10,000          | 10.000,00 | Em avaliação |
+|                |                        |                   |                 |           |              |
 
 Essa planilha deverá criar transações para os usuários que estão cadastrados no sistema.
 
