@@ -7,7 +7,7 @@ Gostaríamos que você participasse desse desafio para que possamos testar suas 
 Este teste busca analisar as capacidades técnicas para a vaga de Desenvolvedor Full-Stack 2.
 
 ## Desafio
-Você deverá desenvolver uma aplicação que consiste em: um banco de dados (MySQL), uma API (Node.js + Knex.js) e o Front-end (React.js). 
+Você deverá desenvolver uma aplicação que consiste em: um banco de dados (MySQL), uma API (Node.js + Sequelize.js) e o Front-end (React.js). 
 
 Na aplicação, o administrador deve fazer o upload de uma planilha seguindo o modelo abaixo.
 
@@ -27,7 +27,7 @@ O usuário comum deverá se cadastrar utilizando nome, e-mail e senha e se auten
 ## Pré-Requisitos
 
 - Front-End - React.js
-- API - Node.js + knex.js
+- API - Node.js + Sequelize.js
 - Banco de dados - MySQL
 
 ## O que será avaliado
